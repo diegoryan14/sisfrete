@@ -1,4 +1,5 @@
 # sisfrete
+para rodar o projeto entre na pasta do projeto, de um npm install no terminal e após isso rode o comando npm run serve
 
 ## Project setup
 ```
